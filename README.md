@@ -1,3 +1,6 @@
+<h1 align="center" style="color: skyblue;">All About MySQL</h1>
+
+
 ### **`CREATE TABLE` কিভাবে কাজ করে?**  
 SQL-এ `CREATE TABLE` ব্যবহার করা হয় **একটি নতুন টেবিল তৈরি করতে**।  
 
